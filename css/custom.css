@@ -74,7 +74,7 @@ section h2::before{
 
 }
 
-.form-input[type="radio"]{
+.input[type="radio"]{
     margin-left: 20px;
     margin-right: 5px;
 }
